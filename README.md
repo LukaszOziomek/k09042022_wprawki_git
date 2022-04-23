@@ -71,3 +71,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Karina@DESKTOP-1P1P0RJ MINGW64 ~/Desktop/projekty ALX/kurs_powtorkowy/wprawki_z_git (master)
 $ git add .
 ```
+
+## kolejna zmiana konfliktowa
