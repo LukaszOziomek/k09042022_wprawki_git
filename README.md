@@ -73,4 +73,4 @@ $ git add .
 ```
 
 
-## konflikt 2
+## konflikt 2 dsdds
