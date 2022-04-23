@@ -20,5 +20,9 @@ git show @^^
 >>>>>>> dadca9cb8a14c0fd89efcefbc18ddd21ec216493
 ```
 
+<<<<<<< Updated upstream
 
 ## Jak uzywac git stash
+=======
+## niepewna zmiana
+>>>>>>> Stashed changes
