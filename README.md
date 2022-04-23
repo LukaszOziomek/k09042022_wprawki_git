@@ -72,4 +72,8 @@ Karina@DESKTOP-1P1P0RJ MINGW64 ~/Desktop/projekty ALX/kurs_powtorkowy/wprawki_z_
 $ git add .
 ```
 
+
+
 ## kolejna zmiana konfliktowa
+
+## konflikt rozwiazany
