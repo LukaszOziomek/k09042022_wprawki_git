@@ -19,3 +19,6 @@ git show @^^
 ## konflikt 2 
 >>>>>>> dadca9cb8a14c0fd89efcefbc18ddd21ec216493
 ```
+
+
+## Jak uzywac git stash
